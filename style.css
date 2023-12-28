@@ -30,6 +30,12 @@ p {
   background-color: #001212;
 }
 
+img {
+  width: 250px;
+  border-radius: 5px;
+  box-shadow: 5px 5px lightblue;
+}
+
 #confetti {
   overflow-y: hidden;
   overflow-x: hidden;
